@@ -1,0 +1,5 @@
+[user]
+	name = mylo.stone+github.com@gmail.com
+	email = mylo.stone+github.com@gmail.com
+[core]
+	autocrlf = true
